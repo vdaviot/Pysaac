@@ -1,0 +1,6 @@
+and = &&
+
+si
+ > a = 1
+	et on qu'on demande a == 42 
+il renvoi false ou true selon la reponse
